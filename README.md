@@ -5,11 +5,11 @@
 Video hướng đẫn: https://www.youtube.com/watch?v=OyD57q-VFzE
 
 
-  **Đề số 7:**
+  **Đề số 8:**
   
 Câu 1:FileExplore.
 
-Câu 2:Xóa các thư mục.
+Câu 2:Xóa file.
 
 Câu làm thêm: Open thư mục or file.
 
