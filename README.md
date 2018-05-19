@@ -1,6 +1,6 @@
 Tên SV: Võ Như Tài
 lớp: 17IT2    Mã SV:17IT095
-Video hướng đẫn:https://www.youtube.com/watch?v=OyD57q-VFzE
+Video hướng đẫn: https://www.youtube.com/watch?v=OyD57q-VFzE
 
 Đề số 7: 
 Câu 1:FileExplore.
