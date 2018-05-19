@@ -16,7 +16,7 @@ Chức năng Delete:
 Chức năng Open:
   -Chọn thư mục hoặc file cần Open
   -Kích chọn vào nút Open
-  -Thư mục or tệp sẽ được mở lên với ứng dụng mặc định
+  -Thư mục or tệp sẽ được mở lên với ứng dụng mặc định.
 
 
 
