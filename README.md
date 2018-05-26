@@ -20,19 +20,19 @@ Câu làm thêm: Open thư mục or file.
 
          B1:Tải và giải nén project từ Github
          
-         B2:Mở phần mềm **cmd** bằng cách nhấn phím *win+r* và gõ *cmd* rồi nhấn Enter
+         B2:Mở phần mềm cmd bằng cách nhấn phím win+r và gõ cmd rồi nhấn Enter
          
          B3:Dùng lệnh cd chuyển đến thư mục src
          
-         *Ví dụ:C:\Users\Admin\cd Desktop\file_Explorer\src*
+         Ví dụ:C:\Users\Admin\cd Desktop\file_Explorer\src
          
          B4:Biên dịch bằng lệnh javac
          
-         *Ví dụ:C:\Users\Admin\Desktop\file_Explorer\src javac kaka.java*
+         Ví dụ:C:\Users\Admin\Desktop\file_Explorer\src javac kaka.java
          
          B5:Nhập lệnh " java Explorer " để chạy chương trình 
          
-         *Ví dụ:C:\Users\Admin\Desktop\file_Explorer\src java kaka
+         Ví dụ:C:\Users\Admin\Desktop\file_Explorer\src java kaka
        
 *Cách 2*:
          
